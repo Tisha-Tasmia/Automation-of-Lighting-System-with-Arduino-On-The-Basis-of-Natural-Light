@@ -70,10 +70,15 @@ void loop() {
 
 **Materials:**
 •	Arduino Uno (or similar)
+
 •	Light Dependent Resistor (LDR)
+
 •	10kΩ Resistor
+
 •	LED (or Relay for controlling actual lights)
+
 •	Jumper wires
+
 •	Breadboard (optional, but recommended for prototyping)
 
 
@@ -112,9 +117,15 @@ void loop() {
 **Future Improvements:**
 
 •	Relay Control: Replace the LED with a relay to control actual lighting fixtures (e.g., lamps, bulbs). This would make the system practical for real-world applications.
+
 •	Multiple Zones: Implement the system with multiple LDRs and relays to control lighting in different zones independently.
+
 •	Wireless Communication: Integrate a wireless communication module (e.g., ESP8266, Bluetooth) to control and monitor the lighting system remotely via a smartphone app or web interface.
+
 •	Smart Home Integration: Explore integrating the system with existing smart home platforms.
+
 •	Dimming Control: Implement a Pulse Width Modulation (PWM) control to dim the lights based on the ambient light levels, rather than just switching them on/off.
+
 •	Weather Data Integration: Incorporate weather data (e.g., from an online API) to anticipate changes in natural light and adjust the lighting accordingly.
+
 •	Enclosure: Design and build a suitable enclosure for the project to make it aesthetically pleasing and protect the components.
