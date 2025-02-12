@@ -8,7 +8,9 @@ The project “Automation of Lighting System with Arduino On The Basis Of Natura
 This project implements a smart lighting system that automates indoor lighting based on ambient natural light levels using Light Dependent Resistors (LDRs) and an Arduino microcontroller. The system aims to improve energy efficiency by reducing unnecessary power consumption when sufficient natural light is available. Key features include automatic light control, adjustable sensitivity, and real-time monitoring of light intensity. The system utilizes an LDR to detect the amount of ambient light, and the Arduino processes this information to control the lights (represented by an LED in the prototype, but easily scalable to control actual lighting fixtures via relays).
 
 **Circuit Diagram:**
+## Circuit Diagram
 
+![Circuit Diagram](https://raw.githubusercontent.com/Tisha-Tasmia/Automation-of-Lighting-System-with-Arduino-On-The-Basis-of-Natural-Light/refs/heads/main/circuit_diagram.png.png)
 
 
 **Description:**
